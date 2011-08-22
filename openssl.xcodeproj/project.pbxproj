@@ -78,6 +78,7 @@
 					armv6,
 					armv7,
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
 				VALID_ARCHS = "armv6 armv7";
@@ -91,6 +92,7 @@
 					armv6,
 					armv7,
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
 				VALID_ARCHS = "armv6 armv7";
